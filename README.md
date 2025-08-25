@@ -20,7 +20,7 @@ El desarrollo y pruebas del proyecto se realizaron utilizando el entorno de desa
 
 ### Ejercicios Incluidos  
 
-#### **Ejercicio [1] – Descripción de Dispositivos**  
+#### **Ejercicio [1] – Gestión de Dispositivos**  
 - **Descripción:**  Imagina que estás desarrollando un sistema para gestonar una red de dispositvos IoT 
 (Internet of Things). Los dispositvos pueden ser sensores de temperatura, cámaras de 
 seguridad, o altavoces inteligentes, entre otros:
